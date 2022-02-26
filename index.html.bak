@@ -15,7 +15,11 @@
 <p>Test modif</p>
 <p>ouioui</p>
 <p>ouioui2</p>
-
+<<<<<<< HEAD
+<p>naa</p>
+=======
+<p>n</p>
+>>>>>>> a8c15b0d6ac3efe916a31a7e9e2c5a71509b923f
 <!-- Optional JavaScript; choose one of the two! -->
 
 <!-- Option 1: Bootstrap Bundle with Popper -->
