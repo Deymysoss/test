@@ -14,8 +14,12 @@
 <h1>Hello, world! new dev</h1>
 <p>Test modif</p>
 <p>ouioui</p>
+<<<<<<< HEAD
+<p>ouioui2</p>
 
-
+=======
+<p>n</p>
+>>>>>>> test_1
 <!-- Optional JavaScript; choose one of the two! -->
 
 <!-- Option 1: Bootstrap Bundle with Popper -->
